@@ -1,2 +1,3 @@
 # R_note
-Notes on R
+Заметки по языку R. 
+Сделаны по мере обучения на сайте campus.datacamp.com
